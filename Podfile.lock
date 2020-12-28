@@ -1,0 +1,16 @@
+PODS:
+  - Blurberry (0.1.0)
+
+DEPENDENCIES:
+  - Blurberry
+
+SPEC REPOS:
+  trunk:
+    - Blurberry
+
+SPEC CHECKSUMS:
+  Blurberry: 361c1a4778ea0c46da25716b03d1344a4cf8fe01
+
+PODFILE CHECKSUM: f18f64a92c2effcab7648a7e22763f3fd2cb3e8a
+
+COCOAPODS: 1.10.0
